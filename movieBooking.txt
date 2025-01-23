@@ -1,0 +1,7 @@
+Movie Booking System:
+
+1)User Aunthentication and login-singleton pattern
+2)Movie data and Searching movies-search pattern and 
+3)Seats booking-------for differnet seats factory method 
+4)Payment-----singleton pattern
+5)Notifications-----message pattern
